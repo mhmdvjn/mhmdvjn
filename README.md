@@ -1,16 +1,14 @@
-## Hi there 👋
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
-<!--
-**mhmdvjn/mhmdvjn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Mohammad Hossein Jafari Naeimi
+> _K.N. Toosi University of Technology - Bachelor of Science in Computer Engineering_
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-555555?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mhmdvjn)
+[![Email](https://img.shields.io/badge/Email-555555?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhmdvjn@gmail.com)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-555555?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=GUJ4kusAAAAJ&hl=en&oi=ao)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-555555?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Mohammad-Hossein-Jafari-Naeimi)
+
